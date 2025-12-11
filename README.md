@@ -2,7 +2,7 @@
 <p align="center">
 <img width="370" height="208" alt="MyBallot_whiteBg" src="https://github.com/user-attachments/assets/3021317c-6819-4ff9-ade8-09b73bc28457"/>
 </p>
-MyBallot is a prototype for a next-generation digital balloting platform that leverages **national ID verification**, **AI-assisted fraud detection**, and **secure edge-to-cloud architecture**.  
+MyBallot is a prototype for a next-generation digital balloting platform that leverages national ID verification, AI-assisted fraud detection, and **secure edge-to-cloud architecture**.  
 It is designed for government-level use but flexible enough for universities, corporations, and communities that require trusted voting.
 
 This repository contains a **demo prototype** of the kiosk software, showcasing the system’s workflow, UI mock logic, and security architecture.
