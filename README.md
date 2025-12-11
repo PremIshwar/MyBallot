@@ -111,8 +111,3 @@ Votes are:
 | Insider Attacks | Rogue administrators | Multi-key signing + audit logs |
 | Data Loss | Power failure or outages | Kiosk battery + local backup |
 
-
----
-
-## 📄 Repository Contents
-
