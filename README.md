@@ -70,6 +70,7 @@ Votes are:
 ## System Architecture
 
 <p align="center">
+  <img alt="MyBallotDiagram" src="https://github.com/user-attachments/assets/d6e022fc-9a3c-4d4e-ad2d-371b5cd070ba"/>
 </p>
 
 ### **1. User Interaction**
