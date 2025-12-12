@@ -50,8 +50,8 @@ MyBallot is designed with a “security-first” mindset across every layer:
 
 ### **4. Vote Integrity**
 Votes are:
-- Encrypted on-device using **RSA-OAEP or ECC (PyNaCl)**  
-- Signed using device private key (Ed25519 recommended)  
+- Encrypted on-device using AES-256 with rotating key 
+- Signed using device private key (Ed25519)  
 - Transmitted over HTTPS with pinned certificates
 
 ### **5. Data Privacy**
