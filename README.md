@@ -14,7 +14,7 @@ Presentation Video:
 </p>
 
 Prototype Demo Video:
-<p align="center"><a href="[https://youtu.be/Uks-9vKHu70](https://youtu.be/nvVLlrOSvQY)">
+<p align="center"><a href="https://youtu.be/nvVLlrOSvQY">
 <img width="500" height="960" alt="image" src="https://github.com/user-attachments/assets/bd4204f9-e361-4bc1-a2b5-3ca92f86031a" />
 </a>
 </p>
