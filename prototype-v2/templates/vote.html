@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IDBallot - Voting</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+
+<body data-page="vote">
+
+    <div id="screen-voting" class="screen">
+
+        <div class="voting-header">
+            <span>Select only 1 candidate</span>
+            <span class="voting-title">VOTING</span>
+            <span>Choose wisely</span>
+        </div>
+
+        <div class="candidates-grid">
+            <div class="candidate-wrapper">
+                <div class="candidate-box selected" onclick="selectCandidate(this)">
+                    <div class="user-icon"></div>
+                </div>
+                <div class="candidate-name">Candidate A</div>
+            </div>
+
+            <div class="candidate-wrapper">
+                <div class="candidate-box" onclick="selectCandidate(this)">
+                    <div class="user-icon"></div>
+                </div>
+                <div class="candidate-name">Candidate B</div>
+            </div>
+
+            <div class="candidate-wrapper">
+                <div class="candidate-box" onclick="selectCandidate(this)">
+                    <div class="user-icon"></div>
+                </div>
+                <div class="candidate-name">Candidate C</div>
+            </div>
+
+            <div class="candidate-wrapper">
+                <div class="candidate-box" onclick="selectCandidate(this)">
+                    <div class="user-icon"></div>
+                </div>
+                <div class="candidate-name">Candidate D</div>
+            </div>
+        </div>
+
+        <div id="countdown" style="font-size:2rem; margin-top:20px; display:none;">
+            Confirming in <span id="countdown-number">5</span>
+        </div>
+
+
+        <a href="thankyou.html">
+            <button class="btn-3d">Submit</button>
+        </a>
+        <br>
+        <p>Press the 🔴 button</p>
+    </div>
+
+    <script src="../static/js/app.js"></script>
+</body>
+
+</html>
