@@ -15,9 +15,7 @@ win_joystick.start() #Windows
 app.secret_key = "dev-secret-key"  
 
 PERSONA_LINK = (
-    "https://miniapp.withpersona.com/verify"
-    "?inquiry-template-id=itmpl_i2BGeWpxqZfSoRR8d7LYQoQfwAJy"
-    "&environment-id=env_jVvGECEUMVfz8qcVsjnAvXETSPMM"
+    "<HOSTED_LINK>"
 )
 
 #Welcome
