@@ -7,6 +7,8 @@ It is designed for government-level use but flexible enough for universities, co
 
 This repository contains a **demo prototype** of the kiosk software, showcasing the system’s workflow, UI mock logic, and security architecture.
 
+Check out the latest the latest [prototype](prototype-v2)
+
 Presentation Video:
 <p align="center"><a href="https://youtu.be/Uks-9vKHu70">
 <img width="500" height="735" alt="image" src="https://github.com/user-attachments/assets/0f6aeb82-51d1-4beb-a00a-26ba9def1753" />
